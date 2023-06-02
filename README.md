@@ -25,8 +25,7 @@ who is obsessed with the idea of improving myself and wants a platform to grow a
   <h3 align="center"> ✉️ Email - <a href="mailto:ajaykumarkv0317@gmail.com">ajaykumarkv0317@gmail.com</a></h3>
 
 <h2 align="center">Languages & Tools </h2>
-
-
+  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
