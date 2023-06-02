@@ -1,9 +1,17 @@
 
 <h1 align="center">Hello Folks, I'm Ajay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px" width="30px"></h1>
 
-
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&width=1000&lines=Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git&labelColor=%2337d67a&countColor=%23ba68c8&style=flat-square" /></a>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
+  </a>
+  <a>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git&labelColor=%2337d67a&countColor=%23ba68c8)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git)
+  </a>
+</div>
 
 
 
