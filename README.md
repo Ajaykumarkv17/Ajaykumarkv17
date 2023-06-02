@@ -3,7 +3,7 @@
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&width=1000&lines=Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
-
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git&labelColor=%2337d67a&countColor=%23ba68c8&style=flat-square" /></a>
 
 
 
