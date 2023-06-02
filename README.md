@@ -42,9 +42,11 @@ who is obsessed with the idea of improving myself and wants a platform to grow a
 <hr>
 
 
-  <p align="center">
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&preferLogin=false">    <img  alt="Ajaykumarkv17's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ajaykumarkv17?cardType=github&preferLogin=false" />  </a>
-  </p>
+<a>
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajaykumarkv17?cardType=octocat&theme=react&preferLogin=true)](https://git.io/awesome-stats-card)
+  
+ </a>
 
 <details>
   <summary>More Stats</summary>
