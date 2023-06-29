@@ -38,6 +38,8 @@ who is obsessed with the idea of improving myself and wants a platform to grow a
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ajaykumarkv17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h2 align="center">Github Statistics</h2>
 <hr>
 
