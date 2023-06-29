@@ -3,6 +3,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&width=1000&lines=Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
 
+<p align="center"><img src="https://github.com/neokd/neokd/blob/main/bg.png"></p>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
@@ -19,17 +21,18 @@
 <h2 align="center">About Me 👨🏻‍💻</h2>
 <br/>
 <h4 align="center">Hii  Iam Ajay kumar K V, a 3rd year undergraduate from Velammal College of Enginnering and Technology, Madurai.
-A Passionate Cloud Developer and a Competitive Programmer Enthusiast  ,
-who is obsessed with the idea of improving myself and wants a platform to grow and excel  .</h4>
+A Passionate Cloud Developer and a Competitive Programmer Enthusiast ,who is looking to upskill my carrer.</h4>
 
   <h3 align="center"> ✉️ Email - <a href="mailto:ajaykumarkv0317@gmail.com">ajaykumarkv0317@gmail.com</a></h3>
+  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UmetOoZQbSnbt-T-8eTyH6RcAVK6P0JV/view?usp=sharing)
 
 <h2 align="center">Languages & Tools </h2>
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=#1FBED6&logoColor=00599C)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
