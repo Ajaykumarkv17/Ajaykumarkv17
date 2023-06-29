@@ -14,7 +14,13 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git&labelColor=%2337d67a&countColor=%23ba68c8)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git)
   </a>
 </div>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/ajaykumarkv17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaykumarkv17" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/kkvenkateshbabu?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay2003" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_ig_ajay_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ig_ajay_03" height="30" width="40" /></a>
+</p>
 
 
 <hr>
