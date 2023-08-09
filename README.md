@@ -26,7 +26,7 @@
 <hr>
 <h2 align="center">About Me 👨🏻‍💻</h2>
 <br/>
-<h4 align="center">Hii  Iam Ajay kumar K V, a 3rd year undergraduate from Velammal College of Engineering and Technology, Madurai.
+<h4 align="center">Hii  Iam Ajay kumar K V, a 4th year undergraduate from Velammal College of Engineering and Technology, Madurai.
 A Passionate Cloud Developer and a Competitive Programmer Enthusiast ,who is looking to upskill my carrer.</h4>
 
   <h3 align="center"> ✉️ Email - <a href="mailto:ajaykumarkv0317@gmail.com">ajaykumarkv0317@gmail.com</a></h3>
