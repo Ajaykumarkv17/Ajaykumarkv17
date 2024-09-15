@@ -16,7 +16,7 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ajaykumar-k-v-b80187247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/ajaykumarkv17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaykumarkv17" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/kkvenkateshbabu?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay2003" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_ig_ajay_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ig_ajay_03" height="30" width="40" /></a>
@@ -26,12 +26,11 @@
 <hr>
 <h2 align="center">About Me 👨🏻‍💻</h2>
 <br/>
-<h4 align="center">Hii  Iam Ajay kumar K V, a 4th year undergraduate from Velammal College of Engineering and Technology, Madurai.
-A Passionate Cloud Developer and a Competitive Programmer Enthusiast ,who is looking to upskill my carrer.</h4>
+<h4 align="center">Hello! I'm Ajaykumar K V 👋, a passionate AI enthusiast and cloud engineer dedicated to transforming GenAI concepts into scalable, real-world applications. As a Certified Azure AI Associate and Google Cloud Digital Leader, I excel in utilizing cutting-edge frameworks such as Langchain, Huggingface, Llamaindex, and OpenAI API to develop innovative AI solutions. My mission is to unlock the vast potential of Large Language Models (LLMs) and apply that knowledge to solve complex challenges in the technology landscape 🚀.</h4>
 
   <h3 align="center"> ✉️ Email - <a href="mailto:ajaykumarkv0317@gmail.com">ajaykumarkv0317@gmail.com</a></h3>
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UmetOoZQbSnbt-T-8eTyH6RcAVK6P0JV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sjxNsDsWAorZ3s2hFUEB8QZViIS5JOCd/view?usp=sharing)
 
 <h2 align="center">Languages & Tools </h2>
   
