@@ -96,11 +96,6 @@ My day-to-day work involves designing systems that **reason, plan, call tools, i
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajaykumarkv17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 📊 GitHub Statistics
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajaykumarkv17?cardType=octocat&theme=react&preferLogin=true)](https://git.io/awesome-stats-card)
