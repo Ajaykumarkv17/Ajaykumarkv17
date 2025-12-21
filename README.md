@@ -112,9 +112,9 @@ My day-to-day work involves designing systems that **reason, plan, call tools, i
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/
+- 💼 LinkedIn: https://www.linkedin.com/in/ajaykumar-k-v-b80187247
 - ✉️ Email: **ajaykumarkv0317@gmail.com**
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1sjxNsDsWAorZ3s2hFUEB8QZViIS5JOCd/view)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1B4Jj3YtrfeV3ACnkgdtyPhpzR5CBfZO0/view?usp=sharing)
 
 ---
 
