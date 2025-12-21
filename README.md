@@ -1,70 +1,126 @@
+<h1 align="center">
+  Hello Folks, I'm Ajay 👋
+</h1>
 
-<h1 align="center">Hello Folks, I'm Ajay <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "30px" width="30px"></h1>
+<h3 align="center">
+  AI Engineer | Agentic AI on AWS | LLM Systems | GenAI & MLOps
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&width=1000&lines=Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93;Frontend+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=28&center=true&width=1000&lines=GenAI+Engineer+%F0%9F%A4%96;Agentic+AI+Builder+%F0%9F%9A%80;LLM+Systems+%26+MLOps;Cloud+%2B+AI+for+Manufacturing" />
 
-<p align="center"><img src="https://github.com/neokd/neokd/blob/main/bg.png"></p>
+<p align="center">
+  <img src="https://github.com/neokd/neokd/blob/main/bg.png">
+</p>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=plastic"/>
   </a>
-  <a>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git&labelColor=%2337d67a&countColor=%23ba68c8)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git)
+  <a>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAjaykumarkv17%2FAjaykumarkv17.git&labelColor=%2337d67a&countColor=%23ba68c8"/>
   </a>
 </div>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajaykumar-k-v-b80187247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/ajaykumarkv17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajaykumarkv17" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/kkvenkateshbabu?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajay2003" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/_ig_ajay_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ig_ajay_03" height="30" width="40" /></a>
-</p>
 
+---
 
-<hr>
-<h2 align="center">About Me 👨🏻‍💻</h2>
-<br/>
-<h4 align="center">Hello! I'm Ajaykumar K V 👋, a passionate AI enthusiast and cloud engineer dedicated to transforming GenAI concepts into scalable, real-world applications. As a Certified Azure AI Associate and Google Cloud Digital Leader, I excel in utilizing cutting-edge frameworks such as Langchain, Huggingface, Llamaindex, and OpenAI API to develop innovative AI solutions. My mission is to unlock the vast potential of Large Language Models (LLMs) and apply that knowledge to solve complex challenges in the technology landscape 🚀.</h4>
+## 👨🏻‍💻 About Me
 
-  <h3 align="center"> ✉️ Email - <a href="mailto:ajaykumarkv0317@gmail.com">ajaykumarkv0317@gmail.com</a></h3>
-  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sjxNsDsWAorZ3s2hFUEB8QZViIS5JOCd/view?usp=sharing)
+I'm **Ajay**, a **GenAI Engineer at D3Minds**, focused on building **frontier agentic AI systems** and **end-to-end machine learning platforms** for **real-world manufacturing use cases**.
 
-<h2 align="center">Languages & Tools </h2>
-  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+I work at the intersection of:
+- **Agentic AI & LLM systems**
+- **Cloud-native architectures (AWS, Azure, Fabric)**
+- **Production-grade MLOps**
+- **Vision + GenAI for industrial intelligence**
+
+My day-to-day work involves designing systems that **reason, plan, call tools, interact with data, and scale reliably in production** — not just demos.
+
+---
+
+## 🧠 What I Work On (Simplified)
+
+- 🤖 Agentic AI systems with planning, tool-calling, and memory  
+- 🧠 LLM-powered automation for industrial & manufacturing workflows  
+- ⚙️ End-to-end ML pipelines (training → deployment → monitoring)  
+- ☁️ Cloud-native AI platforms on AWS & Azure  
+- 👁️ Vision + GenAI for quality inspection & defect detection  
+
+---
+
+## 🏆 Certifications & Learning
+
+### 🎓 Certifications
+- Microsoft Certified: **Fabric Analytics Engineer Associate**
+- AWS **Agentic AI Demonstrated**
+- AWS **Machine Learning Engineer – Associate**
+- Microsoft **Azure AI Engineer Associate**
+- Microsoft **DP-100: Azure Data Scientist Associate**
+- **Google Cloud Digital Leader**
+
+### 📚 Courses & MOOCs
+- **LLM Agents MOOC** (UC Berkeley – Fall 2024, Spring 2025, Agentic AI 2025)
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)
+
+### 🤖 AI / ML / GenAI
+- LLMs, Agentic AI, RAG
+- LangChain, LlamaIndex, HuggingFace
+- OpenAI, AWS Bedrock
+- Vision Models (Object Detection, Zero-shot, Multimodal)
+- MLOps, Model Monitoring, Evaluation
+
+### ☁️ Cloud & Data
+- **AWS**, **Azure**, **Microsoft Fabric**
+- PostgreSQL, MongoDB
+- Data Lakes, Medallion Architecture
+
+### ⚙️ DevOps & Platforms
+- Docker, Kubernetes
+- Jenkins
+- CI/CD for ML & AI systems
+
+### 🌐 Backend & Full Stack
+- FastAPI, Flask
+- React, Angular
+- API-driven architectures
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ajaykumarkv17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<h2 align="center">Github Statistics</h2>
-<hr>
 
+---
 
-<a>
-  
+## 📊 GitHub Statistics
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ajaykumarkv17?cardType=octocat&theme=react&preferLogin=true)](https://git.io/awesome-stats-card)
-  
- </a>
 
 <details>
   <summary>More Stats</summary>
-  
-  <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumarkv17&hide=html&theme=dark&layout=compact&langs_count=8">
 
-<img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com?user=Ajaykumarkv17&theme=dark">
-  
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykumarkv17&theme=dark&layout=compact&langs_count=8"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Ajaykumarkv17&theme=dark"/>
 
 </details>
 
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-kumar-k-v-b80187247/
+- ✉️ Email: **ajaykumarkv0317@gmail.com**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1sjxNsDsWAorZ3s2hFUEB8QZViIS5JOCd/view)
+
+---
+
+> ⚡ *I enjoy building systems that don’t just answer — they decide, act, and scale.*
